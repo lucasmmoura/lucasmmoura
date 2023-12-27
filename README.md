@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente na busca da primeira oportunidade na área de dev
-- 🌱 Cursando análise e desenvolvimento de sistemas e estudando desenvolvimento web
+- 🌱 Cursando análise e desenvolvimento de sistemas e estudando desenvolvimento mobile
 
 <div align="center">
   <a href="https://github.com/lucasmmoura">
