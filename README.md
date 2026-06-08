@@ -4,12 +4,14 @@ Estudante de Desenvolvimento de Software com foco em Python, Django e Redes Prog
 
 🚀 Techs
 
-Python
-Django
-APIs REST
-Git & GitHub
-Redes Programáveis (SDN)
-P4
+- Python
+- Django
+- APIs REST
+- Git & GitHub
+- Redes Programáveis (SDN)
+- P4
+
+  
 📂 Projetos
 
 🔹 Techtinga – Aplicação web desenvolvida em Django com regras de negócio, autenticação e gerenciamento de dados.
