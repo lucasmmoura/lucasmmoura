@@ -1,18 +1,24 @@
-# Lucas de Moura
+Lucas de Moura
 
-Desenvolvedor de Software focado em Python e Django.
+Estudante de Desenvolvimento de Software com foco em Python, Django e Redes Programáveis.
 
-## 🚀 Tecnologias
-- Python
-- Django
-- APIs REST
-- SQL
-- Git & GitHub
+🚀 Techs
+Python
+Django
+APIs REST
+Git & GitHub
+Redes Programáveis (SDN)
+P4
+📂 Projetos
 
-## 📂 Projetos
-- 🔹 Techtinga – Aplicação web com regras de negócio em Django  
-- 🔹 Locadora – Sistema backend com CRUD completo em Python/Django  
+🔹 Techtinga – Aplicação web desenvolvida em Django com regras de negócio, autenticação e gerenciamento de dados.
 
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/lucasmmoura/
-- Gmail: lucaslostyz@gmail.com
+🔹 Biblioteca API – Sistema de gerenciamento de biblioteca com autenticação, controle de empréstimos, multas, relatórios e importação CSV.
+
+🔹 Redes Programáveis – Desenvolvimento de aplicações utilizando P4 para programação do plano de dados em ambientes SDN.
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/lucasmmoura/
+
+Email: lucaslostyz@gmail.com
